@@ -7,6 +7,7 @@ export class TareasService {
   // localstorage
   // 1. Crear un método para guardar la lista de tareas en el localstorage
   private localStorageKey = 'listaTareas'
+  private localStorageKey1 = 'listaTareas2'
 
 
 
